@@ -6,3 +6,7 @@ def using_concat(array1, array2)
 end
 
 # p using_concat(num1, num2)
+
+def using_insert(array, element)
+  array.insert(4, element)
+end
